@@ -41,4 +41,3 @@ This project aims to:
 
 ---
 
-## 🚀 How to Run
